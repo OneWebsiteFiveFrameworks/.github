@@ -6,6 +6,6 @@ A project by Bryan Zou. The idea is to try five different popular front-end web 
 
 - React with Tanstack Router
 - Vue.js
-- Next.js
+- Solid.js
 - Angular
 - Svelte
